@@ -30,7 +30,6 @@
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-333333?style=flat&logo=raspberrypi)
 
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
