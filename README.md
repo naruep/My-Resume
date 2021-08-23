@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Completed Google IT Support from ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) and studying Google IT Automation with Python Professional.
+- 🎓 &nbsp; Completed Google IT Support from ![Coursera](https://img.shields.io/badge/-Coursera-333333?style=flat&logo=coursera) and studying Google IT Automation with Python Professional.
 - 💼 &nbsp; Working as an IT Helpdesk Support at School of Agricultural Resources, Chulalongkorn University.
 - 🌱 &nbsp; Learning more about IT, and Artificial Intelligence.
 
@@ -24,8 +24,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
-  ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Windows 10](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 
 <br/>
 
