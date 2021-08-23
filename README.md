@@ -5,10 +5,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying IT from Online courses.
-- 💼 &nbsp; Working as an IT Support at School of Agricultural Resources, Chulalongkorn University.
-- 🌱 &nbsp; Learning more about IT Support Specialist, and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Completed Google IT Support from COURSERA and studying Google IT Automation with Python Professional.
+- 💼 &nbsp; Working as an IT Helpdesk Support at School of Agricultural Resources, Chulalongkorn University.
+- 🌱 &nbsp; Learning more about IT, and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -24,9 +23,12 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  [pyCharm](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  
+  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 
 <br/>
