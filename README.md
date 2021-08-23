@@ -28,6 +28,7 @@
 - 🖥 &nbsp;
   ![Windows 10](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-333333?style=flat&logo=raspberrypi)
 
 <br/>
 
