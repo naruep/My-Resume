@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Completed Google IT Support from COURSERA and studying Google IT Automation with Python Professional.
+- 🎓 &nbsp; Completed Google IT Support from ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) and studying Google IT Automation with Python Professional.
 - 💼 &nbsp; Working as an IT Helpdesk Support at School of Agricultural Resources, Chulalongkorn University.
 - 🌱 &nbsp; Learning more about IT, and Artificial Intelligence.
 
