@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Completed Google IT Support from ![Coursera](https://img.shields.io/badge/-Coursera-333333?style=flat&logo=coursera) and studying Google IT Automation with Python Professional.
+- 🎓 &nbsp; Completed Google IT Support and studying Google IT Automation with Python Professional from ![Coursera](https://img.shields.io/badge/-Coursera-333333?style=flat&logo=coursera) .
 - 💼 &nbsp; Working as an IT Support Technician at School of Agricultural Resources, Chulalongkorn University.
 - 🌱 &nbsp; Learning more about Artificial Intelligence.
 
@@ -24,10 +24,12 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)
   ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
 - 🖥 &nbsp;
   ![Windows 10](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+  ![Nvidia Jetson Nano](https://img.shields.io/badge/-Nvidia-333333?style=flat&logo=nvidia)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-333333?style=flat&logo=raspberrypi)
 
 <br/>
