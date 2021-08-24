@@ -5,7 +5,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Completed Google IT Support and studying Google IT Automation with Python Professional from ![Coursera](https://img.shields.io/badge/-Coursera-333333?style=flat&logo=coursera) .
+- 🎓 &nbsp; Completed Google IT Support and studying Google IT Automation with Python Professional from 
+!<a href="mailto:naruep.j@chula.ac.th">[Coursera](https://img.shields.io/badge/-Coursera-333333?style=flat&logo=coursera) .
 - 💼 &nbsp; Working as an IT Support Technician at School of Agricultural Resources, Chulalongkorn University.
 - 🌱 &nbsp; Learning more about Artificial Intelligence.
 
