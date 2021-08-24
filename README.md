@@ -6,7 +6,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Completed Google IT Support and studying Google IT Automation with Python Professional from 
-!<a href="mailto:naruep.j@chula.ac.th">[Coursera](https://img.shields.io/badge/-Coursera-333333?style=flat&logo=coursera) .
+![Coursera](https://img.shields.io/badge/-Coursera-333333?style=flat&logo=coursera).
+<a href="https://coursera.org/share/c9e6c624ee242130784db86fa36d20b1"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Naruep%20Jukping%20-blue?style=flat-square&logo=linkedin"></a>
 - 💼 &nbsp; Working as an IT Support Technician at School of Agricultural Resources, Chulalongkorn University.
 - 🌱 &nbsp; Learning more about Artificial Intelligence.
 
