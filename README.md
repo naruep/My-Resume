@@ -29,7 +29,7 @@
 - 🖥 &nbsp;
   ![Windows 10](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
-  ![Nvidia Jetson Nano](https://img.shields.io/badge/-Nvidia-333333?style=flat&logo=nvidia)
+  ![Nvidia Jetson Nano](https://img.shields.io/badge/-Nvidia_Jetson-333333?style=flat&logo=nvidia)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-333333?style=flat&logo=raspberrypi)
 
 <br/>
