@@ -1,4 +1,4 @@
-<img src="https://github.com/naruep/My-Resume/blob/main/image/tj.jpg">
+<img src="https://github.com/naruep/My-Resume/blob/main/image/tj.jpg" width="300" height="300">
 
 <h2> Hey there! I'm Naruep.</h2>
 
